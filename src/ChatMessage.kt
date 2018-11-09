@@ -1,5 +1,4 @@
-/*  Name: Youqin Sun
-    Student ID: 1706219
+/*  
     File Description:  this file describes chat message: user input, user name, and time of user input
 */
 

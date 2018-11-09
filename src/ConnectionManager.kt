@@ -1,6 +1,5 @@
 
-/*  Name: Youqin Sun
-    Student ID: 1706219
+/*  
     File Description: starts and stops interpreter and stops socket
 */
 

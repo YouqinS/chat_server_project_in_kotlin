@@ -1,5 +1,4 @@
-/*  Name: Youqin Sun
-    Student ID: 1706219
+/*  
     File Description:  this file handles group creating, adding group members,  and collecting group messages and notifying group members
 */
 

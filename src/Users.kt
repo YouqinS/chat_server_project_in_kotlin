@@ -1,5 +1,4 @@
-/*  Name: Youqin Sun
-    Student ID: 1706219
+/*  
     File Description: this file contains a users collection set, a method to add user to its collection, and a method to remove
 */
 

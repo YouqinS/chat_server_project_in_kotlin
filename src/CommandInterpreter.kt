@@ -1,5 +1,4 @@
-/*  Name: Youqin Sun
-    Student ID: 1706219
+/* 
     File Description: this file shows instructions at the beginning and handles user input based on input content
 */
 

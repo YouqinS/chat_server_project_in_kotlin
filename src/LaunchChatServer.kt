@@ -1,5 +1,4 @@
-/*  Name: Youqin Sun
-    Student ID: 1706219
+/*  
     File Description: this file contains the main method to lunch the chat server project
 * */
 

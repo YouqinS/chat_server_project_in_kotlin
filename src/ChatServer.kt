@@ -1,5 +1,4 @@
-/*  Name: Youqin Sun
-    Student ID: 1706219
+/*  
     File Description: instantiate server socket, and wait for connection request,
     once connection is established, returns a socket for communication
     and instantiate command interpreter, and register it to chat history, and then start the command interpreter

@@ -1,5 +1,4 @@
-/*  Name: Youqin Sun
-    Student ID: 1706219
+/*  
     File Description: observerable interface, defines four methods to methods, to be implemented by inherited class
 */
 

@@ -1,5 +1,4 @@
-/*  Name: Youqin Sun
-    Student ID: 1706219
+/*  
     File Description: observer interface, defines three methods
     to be inherited by command interpreter class, methods to be implemented in command interpreter
 */

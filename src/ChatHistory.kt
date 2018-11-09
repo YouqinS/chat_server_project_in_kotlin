@@ -1,5 +1,4 @@
-/*  Name: Youqin Sun
-    Student ID: 1706219
+/*  
     File Description:  this file maintains a collection of observers by adding/removing, and a collection of all messages by adding new messages to it,
                        and notifies observers when there is a new message
 */
